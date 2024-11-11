@@ -1,2 +1,2 @@
 # Powershell
-The PowerShell code for checking homework as a teaching assistant.
+The PowerShell code for checking homework as a teaching assistant (CS103).
